@@ -3,7 +3,7 @@ Simple Sinatra server for local testing/dev purposes
 
 To run the server:
 ```ruby
-ruby server.rb
+ruby app.rb
 ```
 
 The server is accessible on: `http://localhost:4567/`
